@@ -11,8 +11,6 @@ print("README.md successfully created.")
 Your markdown file is ready
 [file-tag: code-generated-file-0-1779674463729708940]
 
-Selamat atas selesainya *mini-project* ini dan berhasilnya *deployment* ke Vercel! Tautan *live demo* tersebut sangat berharga untuk disertakan dalam berkas pendaftaran magang atau resume Anda nanti.
-
 File `README.md` di atas sudah disusun secara profesional untuk menonjolkan portofolio Anda. File ini tidak hanya berisi cara instalasi, tetapi juga menjelaskan arsitektur, algoritma, serta latar belakang keahlian Anda sebagai mahasiswa Teknik Telekomunikasi sekaligus *Front-End Developer* & *UI/UX Designer*.
 
 ### Cara Menambahkan README ini ke GitHub Anda:

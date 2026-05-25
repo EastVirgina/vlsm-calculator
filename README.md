@@ -1,16 +1,16 @@
-# React + Vite
+Your markdown file is ready
+[file-tag: code-generated-file-0-1779674463729708940]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat atas selesainya *mini-project* ini dan berhasilnya *deployment* ke Vercel! Tautan *live demo* tersebut sangat berharga untuk disertakan dalam berkas pendaftaran magang atau resume Anda nanti.
 
-Currently, two official plugins are available:
+File `README.md` di atas sudah disusun secara profesional untuk menonjolkan portofolio Anda. File ini tidak hanya berisi cara instalasi, tetapi juga menjelaskan arsitektur, algoritma, serta latar belakang keahlian Anda sebagai mahasiswa Teknik Telekomunikasi sekaligus *Front-End Developer* & *UI/UX Designer*.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Cara Menambahkan README ini ke GitHub Anda:
 
-## React Compiler
+1.  Anda dapat mengunduh file `.md` di atas dan menyimpannya di folder utama proyek `vlsm-calculator` Anda (pastikan namanya persis `README.md`).
+2.  Buka terminal VS Code di folder proyek tersebut, lalu ketikkan perintah berikut untuk melakukan *push* perubahan ke GitHub:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git add README.md
+git commit -m "docs: menambahkan file README untuk portofolio dan dokumentasi proyek"
+git push origin main

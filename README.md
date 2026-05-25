@@ -1,3 +1,13 @@
+Hafizh Tsaqif Alamsyah
+Mahasiswa S1 Teknik Telekomunikasi di Telkom University
+Front-End Developer & UI/UX Designer
+
+Proyek ini terbuka untuk kontribusi. Jika Anda menemukan bug atau memiliki ide fitur baru, silakan buka Issue atau kirimkan Pull Request!
+
+with open("README.md", "w", encoding="utf-8") as f:
+f.write(readme_content)
+
+print("README.md successfully created.")
 Your markdown file is ready
 [file-tag: code-generated-file-0-1779674463729708940]
 
